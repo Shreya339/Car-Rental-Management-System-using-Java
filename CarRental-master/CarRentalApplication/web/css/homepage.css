@@ -1,0 +1,33 @@
+.header-section {
+    background-color: lightblue;
+    padding-top: 10px;
+}
+
+.link-section {
+    background-color: lightblue;
+    padding-top: 50px;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+.btn-primary:hover {
+    color: yellow;
+}
+
+.btn-danger {
+    margin-top: 10px;
+}
+
+.btn-danger:hover {
+    color: yellow;
+}
+
+.left-align {
+    background-color: lightblue;
+}
+
+html {
+    background-color: lightblue;
+}
