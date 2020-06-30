@@ -1,2 +1,2 @@
 # Car-Rental-Management-System-using-Java
-A car rental management system implemented using java and jsp
+A car rental management system implemented using java 
